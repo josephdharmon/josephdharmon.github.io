@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+**minimal** 
 
 ---
 title: "Joseph D. Harmon"
