@@ -1,6 +1,9 @@
 ---
 title: "Joseph D. Harmon"
 ---
+[Portfolio](#✍️-writing--research-portfolio) · 
+[Lectures](#🎤-lectures--experience) · 
+[Contact](#📎-cv--contact)
 
 # **Joseph D. Harmon**
 _Student of Philosophy & Politics · University of Edinburgh_
@@ -19,6 +22,7 @@ Alongside my studies, I lecture, write, and contribute to student academic commu
 ---
 
 ## ✍️ Writing & Research Portfolio
+📄 [Writing Sample Pack (PDF)](JDH_Writing_Sample_Pack.pdf)
 
 ### **📑 Journal Publication (forthcoming)**
 *Title & citation details to be confirmed — undergraduate political theory research*
