@@ -40,7 +40,7 @@ A curated selection of writing excerpts demonstrating academic research and anal
 ---
 
 ## 🎤 Lectures & Experience
-**Guest Lecturer — Maidstone Grammar School (18 Dec 2024)**  
+**Guest Lecturer — Maidstone Grammar School (2025)**  
 *“Security Studies & Constructivism: The Ontology and Epistemology of Threats”*  
 Delivered a structured lecture introducing constructivist theory, security dilemmas, and real-world case studies.
 
