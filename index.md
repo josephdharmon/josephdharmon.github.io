@@ -41,7 +41,7 @@ A curated selection of writing excerpts demonstrating academic research and anal
 
 ## 🎤 Lectures & Experience
 **Guest Lecturer — Maidstone Grammar School (18 Dec 2024)**  
-*“Security Studies & Constructivism: Understanding Threat as Socially Constructed”*  
+*“Security Studies & Constructivism: The Ontology and Epistemology of Threats”*  
 Delivered a structured lecture introducing constructivist theory, security dilemmas, and real-world case studies.
 
 **Harvard Model United Nations (2023)**  
@@ -50,7 +50,7 @@ Represented Ukraine; drafted resolutions in SOCHUM.
 ---
 
 ## 📎 CV & Contact
-**CV:** Available on request  
+**CV:**  📎 [Download CV](Joseph_D_Harmon_CV.pdf)
 **Email:** josephdharmon@icloud.com  
 **Edinburgh, UK**
 
