@@ -1,4 +1,4 @@
-**minimal** 
+**theme-minimal** 
 
 ---
 title: "Joseph D. Harmon"
